@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Facebook {
 	static
 	{
+		
 		System.setProperty("webdriver.chrome.driver","./driver/chromedriver.exe");
 	}
 
